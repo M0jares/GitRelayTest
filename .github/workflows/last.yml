@@ -33,5 +33,5 @@ jobs:
         run: dotnet build --no-restore
 
       - name: Run tests
-        run: dotnet test --no-build --verbosity normal
+        run: dotnet test ./MsNumatoRelay/MsNumatoRelay.csproj --no-build --verbosity normal
 
