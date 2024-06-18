@@ -9,6 +9,7 @@ namespace MSNumatoRelayTest
     {
         private Class_NumatoRelay numatoRelay = new Class_NumatoRelay("SN");
 
+
         [TestInitialize]
         public async Task Setup()
         {
