@@ -117,12 +117,16 @@ namespace NunitRelay
     {
         public void Setup()
         {
-            // Code to set up a single Relay connection
+            // Replace this comment with the actual code to set up a single Relay connection
+            RelayConnection relay = new RelayConnection();
+            relay.Setup();
         }
 
         public void TurnOn()
         {
-            // Code to turn on a single Relay connection
+            // Replace this comment with the actual code to turn on a single Relay connection
+            RelayConnection relay = new RelayConnection();
+            relay.TurnOn();
         }
 
         public void TurnOff()
