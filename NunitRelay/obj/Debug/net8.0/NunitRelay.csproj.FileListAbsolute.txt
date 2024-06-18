@@ -99,3 +99,4 @@ C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\Nunit
 C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NunitRelay\obj\Debug\net8.0\NunitRelay.pdb
 C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NunitRelay\obj\Debug\net8.0\NunitRelay.genruntimeconfig.cache
 C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NunitRelay\obj\Debug\net8.0\ref\NunitRelay.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NunitRelay\obj\Debug\net8.0\NunitRelay.sourcelink.json
