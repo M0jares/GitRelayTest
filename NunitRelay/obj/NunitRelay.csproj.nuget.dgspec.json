@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NunitRelay\\NunitRelay.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NumatoRelay\\NumatoRelay.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NumatoRelay\\NumatoRelay.csproj",
+        "projectName": "NumatoRelay",
+        "projectPath": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NumatoRelay\\NumatoRelay.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NunitRelay\\NunitRelay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NunitRelay\\NunitRelay.csproj",
+        "projectName": "NunitRelay",
+        "projectPath": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NunitRelay\\NunitRelay.csproj",
+        "packagesPath": "C:\\Users\\sison\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NunitRelay\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sison\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NumatoRelay\\NumatoRelay.csproj": {
+                "projectPath": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\Numato Relay Library\\NumatoRelay\\NumatoRelay.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\bin\Debug\NumatoRelay.dll
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\bin\Debug\NumatoRelay.pdb
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.dll
+C:\Users\Admin\source\repos\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.pdb
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\bin\Debug\NumatoRelay.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\bin\Debug\NumatoRelay.pdb
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.csproj.AssemblyReference.cache
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.csproj.CoreCompileInputs.cache
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\Numato Relay Library\NumatoRelay\obj\Debug\NumatoRelay.pdb
